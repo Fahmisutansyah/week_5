@@ -40,8 +40,6 @@ function changeVocals (str) {
     return output
   }
 
-
-  
   function removeSpaces (str) {
     //code di sini
     var output = ''
